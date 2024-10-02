@@ -7,7 +7,7 @@ const s3 = "Ted";
 const s4 = "bread";
 const s5 = "and";
 
-let tongueTwister = `${s1} ${s2} ${s3} ${s4} ${s5}`
+let tongueTwister = `${s1} ${s2} ${s3} ${s4} ${s5} ${s3} ${s2} ${s1} ${s4}`
 console.log(tongueTwister);
 // Concatenate the string variables into one new string
 
